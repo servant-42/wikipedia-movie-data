@@ -1,3 +1,7 @@
+# Maintainer's Note
+
+**Aug 31, 2026**: I haven't updated this in a few years and am unlikely to prioritize doing so in the future. If someone is interested in taking over this repo and maintaining it, I would gladly hand the reigns over.
+
 # Movie Data
 
 JSON data on American movies scraped from Wikipedia.
